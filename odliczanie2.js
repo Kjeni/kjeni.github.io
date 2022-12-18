@@ -1,5 +1,5 @@
 // odliczanie do:
-var countDownDate = new Date("Dec 22, 2022 12:00:01").getTime();
+var countDownDate = new Date("Dec 21, 2022 16:00:01").getTime();
 
 // zmianaczasu o 1s:
 var x = setInterval(function() {
